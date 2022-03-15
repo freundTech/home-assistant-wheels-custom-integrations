@@ -1,0 +1,6 @@
+{
+    "name": "KDE Connect",
+    "owner": ["@freundTech"],
+    "manifest": "https://raw.githubusercontent.com/freundTech/homeassistant-custom-kdeconnect/main/custom_components/kdeconnect/manifest.json",
+    "url": "https://github.com/freundTech/homeassistant-custom-kdeconnect"
+}
